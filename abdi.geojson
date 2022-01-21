@@ -11,7 +11,7 @@
              "GIS_ID":"Htl_1",
              "ADDRESS":"134 12TH STREET SE",
              "NUMROOMS":5,
-             "NAME":"A CAPITOL PLACE",
+             "NAME":"Menlik Square",
              "X":400869.56,
              "Y":135613.84,
              "ADDRID":66757
@@ -19,8 +19,8 @@
           "geometry":{
              "type":"Point",
              "coordinates":[
-                -76.98997945900216,
-                38.888373396148666
+                9.03602,
+                38.7524
              ]
           }
        },
