@@ -12,15 +12,15 @@
              "ADDRESS":"134 12TH STREET SE",
              "NUMROOMS":5,
              "NAME":"Menlik Square",
-             "X":400869.56,
-             "Y":135613.84,
+             "X":9.03602,
+             "Y":38.7524,
              "ADDRID":66757
           },
           "geometry":{
              "type":"Point",
              "coordinates":[
-                472788,
-                998844
+                38.7524,
+                9.03602
                 
              ]
           }
